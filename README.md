@@ -12,5 +12,5 @@ I don't have much to say, The languages I'm best in are Java and Python but I'm 
 ### Statistics
 #
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=worse&show_icons=true&theme=default)]
-[![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worse&layout=default)]
+![github_stats](https://github-readme-stats.vercel.app/api?username=worse&show_icons=true&theme=default)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worse&layout=default)
